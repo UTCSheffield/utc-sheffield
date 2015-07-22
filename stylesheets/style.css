@@ -2,7 +2,7 @@
 header{min-width:100%;}
 
 #logo {
-    float: left;
+    /*float: left;*/
     height: 85px;
     max-width: 52.06%;
     position: relative;
